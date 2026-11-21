@@ -455,4 +455,3 @@ Before finalizing, verify:
 - Reference-image roles and conflicts are explicit when references exist.
 - Guidance is prioritized, not bloated: preserve at most the highest-impact continuity constraints inside each final prompt.
 - No invented prop, costume, scene, or spatial relation is presented as script fact; assumptions are labeled.
-

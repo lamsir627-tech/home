@@ -85,4 +85,3 @@ Check every character prompt for:
 - oversized close-up plus front, strict side and back full-body views in one horizontal sheet;
 - no metadata field list before the prompt body;
 - no readable labels unless the user explicitly requests a labeled production board.
-

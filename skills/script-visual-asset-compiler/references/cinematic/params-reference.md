@@ -244,4 +244,3 @@ If a token is empty string (`""`), skip it entirely — do not insert a blank.
 | oppressive | 压抑 | 令人窒息的压抑感 | suffocating, oppressive |
 | contemplative | 沉思 | 沉静思索的氛围 | contemplative stillness |
 | exhilarating | 亢奋热血 | 高速肾上腺素的兴奋感，紧张而热血 | high-velocity adrenaline thrill, tense and exhilarating |
-

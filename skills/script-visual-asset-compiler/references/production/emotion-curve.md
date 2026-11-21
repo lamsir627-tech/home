@@ -43,4 +43,3 @@ If the user wants the curve image, create a 16:9 director diagram prompt:
 ```
 
 If image generation fails or is unavailable, output the table and prompt; do not block asset extraction.
-

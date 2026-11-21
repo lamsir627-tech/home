@@ -159,4 +159,3 @@ Use this file when the user asks for a full asset package, prompt-only output, i
 | SCN-01 | scene | 场景名 | MASTER | SCN-01_MASTER.png | |
 | PRP-01 | prop | 道具名 | 45deg | PRP-01_45deg.png | |
 ```
-

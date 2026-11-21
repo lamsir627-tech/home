@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "syncedDate": "2026-11-21",
+  "repository": "lamsir627-tech/home",
+  "branch": "main",
+  "managedCodexFiles": 45,
+  "fileCountExcludingManifest": 48,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "size": 2001,
+      "sha256": "52cf0513bf75a5451946643ad7b994b25b1bd247a79deadd3c8c1280ffefd0e0",
+      "gitBlobSHA": "7a0d878cba86c73ca8c1b6f3924c1556804218f8"
+    },
+    {
+      "path": "skills/chaifen-fenjing-30s/SKILL.md",
+      "size": 40897,
+      "sha256": "4472a02f9c6189f0489f5101334f528fe7d943c34aa201c464e91e888efd7edb",
+      "gitBlobSHA": "b0a4cdf989b9b9edf35364bcfba0427422db780f"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/agents/openai.yaml",
+      "size": 555,
+      "sha256": "23e691c4d288889ace9eef177b7b63a2384aeda1943e897892e1bf6fb7ae793e",
+      "gitBlobSHA": "cd39cbfbbbffe6243fbe9ba57d0cdab685bc51ca"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/aspect-ratio-and-composition.md",
+      "size": 8335,
+      "sha256": "f55a8a178063a289e9d9f317badc0e50f7293e910d1759a65cd364454c89f0ce",
+      "gitBlobSHA": "45c6ac4ac396699e90b1f13596df6918fd39362e"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/final-delivery-format.md",
+      "size": 15843,
+      "sha256": "5917f7f11fc8aa918abf20f45e33fac496a0d3df8f2b375ade79d5c8d2b6dd2d",
+      "gitBlobSHA": "dc1069406c8ee08c0baa2c2f89c7350abd1ca1ba"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/full-script-mode.md",
+      "size": 28806,
+      "sha256": "45c154a7eacd18d33e0b0d8f765d702181dd45cc42a4b3eea03d388ea4c64b8e",
+      "gitBlobSHA": "322e159f5b7fed6caabd7219a61fef3183601c53"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/global-asset-control.md",
+      "size": 28942,
+      "sha256": "50bb214f7aea4ae1489de67e597e9d5465fce423810721b8beea67adec89507d",
+      "gitBlobSHA": "27628d9fa620971a6079b090725813c9a0b2fe3d"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/lark-base-asset-delivery.md",
+      "size": 8706,
+      "sha256": "775f6063d6dbc2a70d2a7849f2bdcda75e90463aa8b2bd47c97642ff13c41301",
+      "gitBlobSHA": "74762e4bbcaf7659d0c08091473f56c7db56f888"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/libtv-cli-delivery.md",
+      "size": 15556,
+      "sha256": "e4b6ec537c4c3b08325b2da4ae8de668a80fb9d467c653c50438f914f69d35d1",
+      "gitBlobSHA": "bb12c0a2f7cd3843319414519196dc7530a05d4b"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/lighting-and-color-optimization.md",
+      "size": 8180,
+      "sha256": "437a16522ba1157273bd23837876aeddc7e0922223fe58bb3f7a6c6e5fac127a",
+      "gitBlobSHA": "a28d03f1d730bd0c2f82db6109f1241960410644"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/long-text-workflow.md",
+      "size": 19650,
+      "sha256": "e72a6ed6050945ad01d90e29ebb9bbfd747b29b698fd5bbce7309f3165340ccc",
+      "gitBlobSHA": "3ebc6fc562007483070e42cebd7a5e3d4083d281"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/microexpression-and-emotion-intensity.md",
+      "size": 18695,
+      "sha256": "8ed87eec1a99b81a3a8ab26596622d118aad37e21356ffced221f3c93012650d",
+      "gitBlobSHA": "310841c1872426006afcb5ac8ab5164271964d05"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/narrative-evidence-and-state.md",
+      "size": 6387,
+      "sha256": "b0c45e5d79aa5a5629205e08749ade23991228d20a0efcb4b56807d921d55a15",
+      "gitBlobSHA": "ba01314700b2d295b0542fd6bc761b5094204e26"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/review-mechanisms.md",
+      "size": 34149,
+      "sha256": "3600d4a46e62c124025ff858b1601fc78f360d0f6f19db4f7c4ba144bbbc3851",
+      "gitBlobSHA": "58cf04e5063b69144927df9bde06de5e67394a6f"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/shot-space-checks.md",
+      "size": 8191,
+      "sha256": "7deba6296ecb31494888967389cee74b0a18becfa6a5a068f2821c4e4bf04ca7",
+      "gitBlobSHA": "2301249f1b9896a0ef025fd0e9dcf0479376ff39"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/source-text-and-shot-rules.md",
+      "size": 68748,
+      "sha256": "e626cce8919cfc4c8ef3a615558db92e555ad4809daded73b370a1cd05e4ab2f",
+      "gitBlobSHA": "b789e877ea22df4ebd2d747d950ab04abe2ca0c7"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/storyboard-contract.md",
+      "size": 32484,
+      "sha256": "294389242a937c2af5c2e863567e62fa4b203c2ea681c4d78866f750effb6e27",
+      "gitBlobSHA": "fdb4716b18129b6a7e8f2bbeee7f4b7deaf9b2ac"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "size": 17559,
+      "sha256": "a5b0817bac016848c6256eaab9f408370bc5b7ffd9616ddbf6524711da5dc3ec",
+      "gitBlobSHA": "1ebce2817572b34a4c8231735a9edd843a89baf6"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/video-texture-style-options.md",
+      "size": 8527,
+      "sha256": "a14a2898c8c7f35abf6d5e5f8dc3288e67771c002e8ad8dce92a76669241b803",
+      "gitBlobSHA": "f2e69451ac5944079b5f993c82a4380325bb8903"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/build_source_ledger.py",
+      "size": 12313,
+      "sha256": "f86186be6e84928e4cdfe20411fdb3cd9f35ba6da20d82fe3e773058acd98e35",
+      "gitBlobSHA": "c41890c2b415b25b8e57d695f75f074ec35b35a1"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/test_verify_libtv_handoff.py",
+      "size": 10669,
+      "sha256": "78662a0b772a3ec9cda7c88289e249ead99b19f2ef27e7f339a6c389afd7e282",
+      "gitBlobSHA": "3399489356b7efbd655d67d971cae65b13bf7bdc"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/test_verify_storyboard.py",
+      "size": 7740,
+      "sha256": "9cfd315596e581bf334ebe5ae54f87da92f95e7bb6c424d245e6f59abc053a02",
+      "gitBlobSHA": "3c37cc814916093c169a8a2f1f5b2a96ed699eb0"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/verify_libtv_handoff.py",
+      "size": 11741,
+      "sha256": "0f1f0c070c5f0cd06bf456b60798bc6611cd1734a7b0f4c68f0c1d18da44efcf",
+      "gitBlobSHA": "c49120cb3f1b685fc566dab1be778af8371c0ffd"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/verify_storyboard.py",
+      "size": 20717,
+      "sha256": "93b9f25f9cc519e97feef57aada7413424c9c66ae5727c57cf3113f4a0ecc0cc",
+      "gitBlobSHA": "9416eb8940632c3e79a61bc8e4517f77d18c6bdc"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/SKILL.md",
+      "size": 20146,
+      "sha256": "c1c56b7dab4e94e31f9122e5c74563d3f6f3b5f9219b4dfbb616d42c3d6f6bd8",
+      "gitBlobSHA": "81909f821735868b0d8836e45520be7a56a8f1eb"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/agents/openai.yaml",
+      "size": 395,
+      "sha256": "6688c06654ed77d1933004712107b98cb7b808ee350d4926a57bcdbee7872407",
+      "gitBlobSHA": "a8b1dfe073d2f84e0dd7e0bfdcb1cd88c66f2d2e"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/canvas/generic-canvas-blueprint.md",
+      "size": 5853,
+      "sha256": "4d2df8370c907d5e7fbe2630370ffc8a1f0b7b063a1614a979031b4abd7031e3",
+      "gitBlobSHA": "21c26927dfad8e1f071c663b914fcaa7210460f1"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/anti-slop-system.md",
+      "size": 7954,
+      "sha256": "ef0ebae6b439c49563d07790536d6aa57f577d36f7e9be06e04d8cff2a5409d1",
+      "gitBlobSHA": "8e447ff8c070613e694a3afa03d273308b866b13"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/integration-rules.md",
+      "size": 7347,
+      "sha256": "45f5e0c985d8cec79c649d9263dde3cee622fe18a0585c34c9a1789339b5ae01",
+      "gitBlobSHA": "d1f87e45e8c62595aa6fe78417a7e4aa316db6cf"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/look-card-and-transfer.md",
+      "size": 3947,
+      "sha256": "d80f186b9fbd03e3af00be86e811bf699fd88595acc247aa7dda7cfedc5162bd",
+      "gitBlobSHA": "2ea79fccfdf64361867e896c031be6e76c8ebbed"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/model-adapters.md",
+      "size": 4277,
+      "sha256": "3ab0e84aa717998682b335572c6b4f6de40136541189b61384bea256dd1dc7d1",
+      "gitBlobSHA": "ab41431bd906dcb06054f8cfa58f956172ab39ea"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/params-reference.md",
+      "size": 22139,
+      "sha256": "e69388d2acc4c2f7df5b1570f95303bb7c5b42a325ea72f7c9598c4c2d4ba808",
+      "gitBlobSHA": "9cf00c8737aaa7fafb83fa4df150eceb9620585c"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/presets-reference.md",
+      "size": 29246,
+      "sha256": "899b5df5cf6fa419545afc5747132bbf6d6e8ddf40f47c4bab509303ede958a5",
+      "gitBlobSHA": "87bdd866e31ff76f8f7c9899592e623dcd266890"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/recipes-reference.md",
+      "size": 3252,
+      "sha256": "6761290d33d74916d58a09c20c1617aab3763b8db123c155258d066492394116",
+      "gitBlobSHA": "b9d1c96137d4104a198f37a5ac1278ace13bf06a"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/scene-shot-prompt-grammar.md",
+      "size": 8054,
+      "sha256": "f7c65ef63d04a28104776bfffa69db0de58f591852cf4c612dd118b3f45a9a6e",
+      "gitBlobSHA": "c96e58ce852faa95cdfff4d3333300863f599611"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/cinematic/style-amplification.md",
+      "size": 8095,
+      "sha256": "83bdc21aa5c3dc63a942a480a87b0cae5927a276c4a45095bc2e78fe7a83dd3c",
+      "gitBlobSHA": "97e098733a5235ba0d35e96aca2e7c7747ec6724"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/asset-taxonomy-and-profiles.md",
+      "size": 6740,
+      "sha256": "95d1c54be28034e1439340b29208e96182807a63c52789e6b163bd5f5c707fd5",
+      "gitBlobSHA": "f89b84b64d45c4a3edec8ca92e62789e2ae23d72"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/character-costume-workflow.md",
+      "size": 5910,
+      "sha256": "1b080b06ec2a32bdb8172d30441d3f83f17e9d11c87885f6da665dc0708e5267",
+      "gitBlobSHA": "86eb471924aa51431d15ec9f2d679930f8dd062b"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/codex-image-generation.md",
+      "size": 4492,
+      "sha256": "bbc73e1078ca6d8282d6cbd17afa197caa14e4774ff773021a014020a92cd5f6",
+      "gitBlobSHA": "1df0c0deddae38720f90ebd5b5d65dd377675b37"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/director-intake-and-creative-baseline.md",
+      "size": 3691,
+      "sha256": "fa70ee88070362bd383381810040b10ea6a0443ef9f09382890888ef3a087776",
+      "gitBlobSHA": "5c2ed97f6ed8b819765e337a97f44b0c5c57760d"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/emotion-curve.md",
+      "size": 2455,
+      "sha256": "f6cfc98a10099434e980228bee292650c127e2bac4fd7734529cb9f4000d1889",
+      "gitBlobSHA": "502f0a606b3dcfcdb853468fa1719f9b51165351"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/output-templates.md",
+      "size": 2924,
+      "sha256": "dafa95f92f0951d02f57a4953e7e534fd19a7e3ef247212700f7d3a7de445531",
+      "gitBlobSHA": "2ae1dbedd82b74a1aaa581cb6707ffe4b8147379"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/prompt-document-compiler.md",
+      "size": 5314,
+      "sha256": "6a61cf2e82fb5c9e69bc7f6685b34685a42ba92e28e9cf73c6ac45df47e3fb99",
+      "gitBlobSHA": "a034af87ee158d2bb8ab69bd910d10aa14334cf1"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/references/production/prop-dossier-mode.md",
+      "size": 3318,
+      "sha256": "180b12332e6688febb548dabf7b01254afb29fba3ec7027928629b583d28034b",
+      "gitBlobSHA": "860184041d78fbb9ec8567c88ed7487265bba30f"
+    },
+    {
+      "path": "skills/script-visual-asset-compiler/SKILL.md",
+      "size": 36703,
+      "sha256": "70491ece63f86edcad5f2ed929c580aa75a64d3c0bbe7f1d31ecdbcb67ad9d0f",
+      "gitBlobSHA": "85e7167792be580c12760ea662f6563703fc4feb"
+    },
+    {
+      "path": "projects/重生7-18/工业级定稿验收标准.md",
+      "size": 20514,
+      "sha256": "1f5354102dd5dbb20504ed019244309c412c3603c58cc76cbe055d138ef1fbcd",
+      "gitBlobSHA": "26f0ad8ca2213a620b29afd1c6b285de427122c0"
+    },
+    {
+      "path": "projects/重生7-18/规则备份/20261121_agent验收执行优化/项目_工业级定稿验收标准_R2.md",
+      "size": 13862,
+      "sha256": "6fe9d43fa69947c2a563bccb587238cc8066a01e97ea2248a296c9364fdf67aa",
+      "gitBlobSHA": "e9baa37aee561ce3b8043a73bae74cd8ce380dad"
+    },
+    {
+      "path": "README.md",
+      "size": 1128,
+      "sha256": "90cbfe206a78eceb71e3ed28acdd7883c073a36fd2c5c49ead9d8f901f9cc6d0",
+      "gitBlobSHA": "86a6adec9131619a0a6b2e0f960cf5dfea6ce576"
+    }
+  ],
+  "policy": "原文件字节不改；原提交保留在Git历史。只有本清单文件更新，不删除仓库其他文件。",
+  "automaticWritePermissionGateDeployed": false,
+  "videoGenerated": false
+}

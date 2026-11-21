@@ -48,4 +48,3 @@ If a real reference image exists, state exactly what it controls. Never invent `
 ## QA
 
 Check: single object, correct aspect, complete functional parts, believable scale, manufacturable structure, grip/contact points, era-appropriate material, correct marks/damage/direction, no hand/person/extra object, no accidental brand or readable label unless required by the script.
-

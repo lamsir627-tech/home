@@ -84,4 +84,3 @@ If two or more subjects appear in a SHOT frame, declare the visual center:
 ```
 
 For subjectless scenes, describe material, weather, time, environmental behavior, and spatial anchors instead of inventing a character.
-

@@ -53,4 +53,3 @@ Ask for confirmation only when:
 - the user requested an explicit staged production workflow.
 
 Otherwise proceed with labeled assumptions.
-

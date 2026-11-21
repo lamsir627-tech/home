@@ -60,4 +60,3 @@ When a recipe combo is saved as a named preset (see SKILL.md → Save-as-Preset)
 | `bleach_grit` | 漂白跳过 | bleach_bypass | low | kodak_500t | medium |
 | `neon_vivid` | 霓虹中饱和 | neon_contrast | moderate | kodak_500t | fine |
 | `neutral_clean` | 冷中性干净 | cool_neutral | moderate | none | fine |
-

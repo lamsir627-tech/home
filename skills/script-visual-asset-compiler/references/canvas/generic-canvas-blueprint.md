@@ -181,4 +181,3 @@ Do not hard-code one vendor. Use the following strategy:
 5. If syntax remains unknown, output `cli_command_plan` instead of guessing.
 
 For LibTV-like tools, a preconfigured executable can be used only if it already exists and the user explicitly asks to create canvas nodes. Do not install it and do not inspect its credential storage.
-

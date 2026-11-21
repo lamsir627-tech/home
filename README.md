@@ -1,1 +1,15 @@
-# home
+# Codex 短剧规则与技能
+
+本仓库保存当前使用的规则与技能原文。原文中的本机路径保留不改，便于逐字节核对；网页浏览请使用下列仓库内入口。
+
+- [全局规则](AGENTS.md)
+- [30秒分镜技能](skills/chaifen-fenjing-30s/SKILL.md)
+- [人物场景道具资产提取](skills/script-visual-asset-compiler/SKILL.md)
+- [通用分镜技能](skills/universal-storyboard-breakdown/SKILL.md)
+- [两轮交付与图片返修](skills/universal-storyboard-breakdown/references/two-round-delivery.md)
+- [《重生》项目验收标准R3](projects/重生7-18/工业级定稿验收标准.md)
+- [本次同步文件与SHA256](sync-manifest.json)
+
+R3保留原P01–P10，细化证据、独立复核、关联回归和写前/写后准入，新增校验器有效性验证。既有R2审核与交付不自动改称R3通过；规则同步不代表已部署不可绕过的自动写入拦截，也不触发视频生成。
+
+同步范围仅为规则、三项相关技能及其参考/脚本、项目标准和R2标准备份，不包含完整剧本、人物图片、音视频、账号凭据或会话日志。

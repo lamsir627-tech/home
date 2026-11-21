@@ -112,4 +112,3 @@ Drop decorative adjectives before dropping spatial anchors, identity locks, styl
 - Read `style-amplification.md` when the user asks for stronger style, live-action film, 真人电影, 影视风格, 玄幻低饱和, visual DNA, zodiac/MBTI visualization, or says the result is too concept-art-like or not stylized enough.
 - Read `anti-slop-system.md` whenever adding realism or anti-slop clauses.
 - Read `model-adapters.md` when the user names GPT Image, Midjourney, Flux, SDXL, or another still-image model.
-

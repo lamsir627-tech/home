@@ -87,4 +87,3 @@ Sentence 6: compressed anti-slop, with only the most important constraints.
 | Flux | Natural language works well. Convert noise-fuse terms to positive visible descriptions. |
 | GPT Image | Use the compression rules above. Natural prose beats keyword stacks. |
 | Unspecified | Keep the user's language and include the photography anchors when the prompt asks for cinematic realism. |
-

@@ -113,4 +113,3 @@ Ask the user before merging only if a provided prompt format requires any of the
 - replacing scene continuity cards with pure mood prompts
 - using readable labels, UI, zodiac/MBTI text, or brand marks as style carriers
 - putting CLI plans, QA notes, or canvas metadata into the model prompt body
-

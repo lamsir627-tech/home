@@ -158,4 +158,3 @@ Before finalizing a prompt for a style-heavy request, check:
 - Character costume/casting plates are not mistaken for action shots.
 - Scene plates remain empty and spatially readable.
 - Negative constraints target the actual failure mode: concept art, game render, plastic CGI, anime, readable text, UI pollution.
-
