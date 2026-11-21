@@ -17,6 +17,8 @@ description: Convert Chinese short-drama scripts into video-generation prompts g
 
 生成或重做任何定位图前，通读用户提供的整部剧本，逐场梳理剧情因果和场景演变，再按[六类问题验收规则](<C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md#六类问题验收规则>)第 1 项逐图核对。提示词返修和画布交付也执行同一规则。
 
+图片返修必须按[返修图必须独立重新出图](<C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md#返修图必须独立重新出图>)执行：从确定的人物、场景、道具原件及已核剧情状态重新生图，不把当前或历史站位成图、返修图及其衍生图传作底图或局部编辑母图。新图逐人核形象并重新验收，通过后才用于返修视频提示词及正式节点引用；旧图的通过结论不继承。
+
 ## 验收依据与执行边界
 
 开始拆分、资产回图返修或节点交付前，先按[项目验收标准与职责](<C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md#项目验收标准与职责>)定位并读取当前项目已确认的验收标准。项目标准负责准入条件，本技能负责生成方法，两轮流程负责交接；已核对的剧情、台词、时长、画幅与完整模板继续适用。没有另行提供项目标准的任务，执行本技能原有检查，不套用其他项目的数值和范围。

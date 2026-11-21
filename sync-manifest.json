@@ -4,7 +4,7 @@
   "repository": "lamsir627-tech/home",
   "branch": "main",
   "managedCodexFiles": 45,
-  "fileCountExcludingManifest": 48,
+  "fileCountExcludingManifest": 49,
   "files": [
     {
       "path": "AGENTS.md",
@@ -14,9 +14,9 @@
     },
     {
       "path": "skills/chaifen-fenjing-30s/SKILL.md",
-      "size": 40897,
-      "sha256": "4472a02f9c6189f0489f5101334f528fe7d943c34aa201c464e91e888efd7edb",
-      "gitBlobSHA": "b0a4cdf989b9b9edf35364bcfba0427422db780f"
+      "size": 41411,
+      "sha256": "0e568fd8e172078257e1f7329316e6c0d07cd695b2f0b6d087d9b7df97cb8687",
+      "gitBlobSHA": "6f13e229f8f62eada257cc50875b7b2fa2c622ae"
     },
     {
       "path": "skills/universal-storyboard-breakdown/agents/openai.yaml",
@@ -110,9 +110,9 @@
     },
     {
       "path": "skills/universal-storyboard-breakdown/references/two-round-delivery.md",
-      "size": 17559,
-      "sha256": "a5b0817bac016848c6256eaab9f408370bc5b7ffd9616ddbf6524711da5dc3ec",
-      "gitBlobSHA": "1ebce2817572b34a4c8231735a9edd843a89baf6"
+      "size": 20178,
+      "sha256": "2eb7e6e21b74de41812adf49b6c0ef23afb516c57cf07deb82c67dfc546fc42e",
+      "gitBlobSHA": "6dcc94b07813e0e5d09b7ce0e6d4f74a49483cac"
     },
     {
       "path": "skills/universal-storyboard-breakdown/references/video-texture-style-options.md",
@@ -272,15 +272,15 @@
     },
     {
       "path": "skills/script-visual-asset-compiler/SKILL.md",
-      "size": 36703,
-      "sha256": "70491ece63f86edcad5f2ed929c580aa75a64d3c0bbe7f1d31ecdbcb67ad9d0f",
-      "gitBlobSHA": "85e7167792be580c12760ea662f6563703fc4feb"
+      "size": 37320,
+      "sha256": "5cfb27943cdac728e322b1a359bf1063b72e737a2b88814031f6da18c78da298",
+      "gitBlobSHA": "b589fab16502bf6450732bd2ae3d92ecaff8d472"
     },
     {
       "path": "projects/重生7-18/工业级定稿验收标准.md",
-      "size": 20514,
-      "sha256": "1f5354102dd5dbb20504ed019244309c412c3603c58cc76cbe055d138ef1fbcd",
-      "gitBlobSHA": "26f0ad8ca2213a620b29afd1c6b285de427122c0"
+      "size": 21507,
+      "sha256": "23a161a1274bf8b441bc165f7460e9b3cf925ebe247770e59eb33dc9ca674093",
+      "gitBlobSHA": "b035f3ef305a36fcc84ab926c8185ab7e70e914f"
     },
     {
       "path": "projects/重生7-18/规则备份/20261121_agent验收执行优化/项目_工业级定稿验收标准_R2.md",
@@ -289,10 +289,16 @@
       "gitBlobSHA": "e9baa37aee561ce3b8043a73bae74cd8ce380dad"
     },
     {
+      "path": "projects/重生7-18/规则备份/20261121_返修图独立重出/项目_工业级定稿验收标准_R3.md",
+      "size": 20514,
+      "sha256": "1f5354102dd5dbb20504ed019244309c412c3603c58cc76cbe055d138ef1fbcd",
+      "gitBlobSHA": "26f0ad8ca2213a620b29afd1c6b285de427122c0"
+    },
+    {
       "path": "README.md",
-      "size": 1128,
-      "sha256": "90cbfe206a78eceb71e3ed28acdd7883c073a36fd2c5c49ead9d8f901f9cc6d0",
-      "gitBlobSHA": "86a6adec9131619a0a6b2e0f960cf5dfea6ce576"
+      "size": 1307,
+      "sha256": "edc5a3aac822caffda1b3fa054cf14a0be844ecc7d98c69e0d045a9e1035ebf1",
+      "gitBlobSHA": "8557c3862481987447625b03abae214b68273211"
     }
   ],
   "policy": "原文件字节不改；原提交保留在Git历史。只有本清单文件更新，不删除仓库其他文件。",

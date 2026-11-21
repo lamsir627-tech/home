@@ -46,6 +46,8 @@ Read only the files needed for the current task:
 
 Accept scripts, outlines, dialogue, novels, shot lists, storyboards, reference images, existing prompts, or mixed materials.
 
+短剧资产图需要返修时，先读取并执行[返修图必须独立重新出图](<C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md#返修图必须独立重新出图>)。重新使用锁定剧本、已确认设定及确定的基准人物/衣装、场景、道具原件编写完整生图提示词并独立出图；当前待修成图、历史返修图及其衍生图只用于查错，不作为生图底图、局部编辑母图或身份来源。新图逐人对照原卡检查形象和身体比例，并按适用项目标准重新验收，不继承旧图结论。
+
 When reference images are provided, assign explicit roles before extraction:
 
 ```text
