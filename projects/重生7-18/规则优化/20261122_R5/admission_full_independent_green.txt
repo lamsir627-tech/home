@@ -1,0 +1,28 @@
+test_author_cannot_be_independent_reviewer (test_verify_industrial_admission.AdmissionTests.test_author_cannot_be_independent_reviewer) ... ok
+test_changed_dependency_rejected (test_verify_industrial_admission.AdmissionTests.test_changed_dependency_rejected) ... ok
+test_changed_model_parameters_rejected (test_verify_industrial_admission.AdmissionTests.test_changed_model_parameters_rejected) ... ok
+test_changed_target_rejected (test_verify_industrial_admission.AdmissionTests.test_changed_target_rejected) ... ok
+test_complete_evidence_passes_without_claiming_semantic_or_permission_isolation (test_verify_industrial_admission.AdmissionTests.test_complete_evidence_passes_without_claiming_semantic_or_permission_isolation) ... ok
+test_edited_prompt_rejected (test_verify_industrial_admission.AdmissionTests.test_edited_prompt_rejected) ... ok
+test_missing_field_coverage_rejected (test_verify_industrial_admission.AdmissionTests.test_missing_field_coverage_rejected) ... ok
+test_missing_required_check_rejected (test_verify_industrial_admission.AdmissionTests.test_missing_required_check_rejected) ... ok
+test_missing_shot_coverage_rejected (test_verify_industrial_admission.AdmissionTests.test_missing_shot_coverage_rejected) ... ok
+test_no_generation_switch_allowed (test_verify_industrial_admission.AdmissionTests.test_no_generation_switch_allowed) ... ok
+test_nonapplicability_cannot_be_self_confirmed (test_verify_industrial_admission.AdmissionTests.test_nonapplicability_cannot_be_self_confirmed) ... ok
+test_partial_person_review_rejected (test_verify_industrial_admission.AdmissionTests.test_partial_person_review_rejected) ... ok
+test_pass_label_without_evidence_rejected (test_verify_industrial_admission.AdmissionTests.test_pass_label_without_evidence_rejected) ... ok
+test_pending_and_failed_checks_rejected (test_verify_industrial_admission.AdmissionTests.test_pending_and_failed_checks_rejected) ... ok
+test_previous_version_review_rejected (test_verify_industrial_admission.AdmissionTests.test_previous_version_review_rejected) ... ok
+test_reference_order_rejected (test_verify_industrial_admission.AdmissionTests.test_reference_order_rejected) ... ok
+test_refreshing_dependency_manifest_requires_new_review (test_verify_industrial_admission.AdmissionTests.test_refreshing_dependency_manifest_requires_new_review) ... ok
+test_refreshing_image_manifest_requires_new_review (test_verify_industrial_admission.AdmissionTests.test_refreshing_image_manifest_requires_new_review) ... ok
+test_report_cannot_overwrite_evidence_when_review_is_malformed (test_verify_industrial_admission.AdmissionTests.test_report_cannot_overwrite_evidence_when_review_is_malformed) ... ok
+test_report_hardlink_cannot_overwrite_input (test_verify_industrial_admission.AdmissionTests.test_report_hardlink_cannot_overwrite_input) ... ok
+test_same_path_replaced_image_rejected (test_verify_industrial_admission.AdmissionTests.test_same_path_replaced_image_rejected) ... ok
+test_truthy_numeric_generation_switch_rejected (test_verify_industrial_admission.AdmissionTests.test_truthy_numeric_generation_switch_rejected) ... ok
+test_visible_person_inventory_cannot_make_P04_nonapplicable (test_verify_industrial_admission.AdmissionTests.test_visible_person_inventory_cannot_make_P04_nonapplicable) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 1.735s
+
+OK

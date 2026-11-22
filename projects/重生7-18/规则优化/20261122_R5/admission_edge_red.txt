@@ -1,0 +1,43 @@
+..........F.....F.
+======================================================================
+FAIL: test_nonapplicability_cannot_be_self_confirmed (__main__.AdmissionTests.test_nonapplicability_cannot_be_self_confirmed)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 175, in test_nonapplicability_cannot_be_self_confirmed
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 73, in run_check
+    self.assertEqual(result.returncode, expected, result.stdout + result.stderr)
+AssertionError: 0 != 1 : {
+  "eligible": true,
+  "stage": "prewrite",
+  "errors": [],
+  "snapshotSHA256": "2fc60cd8ed28d5fc7e6c21952a46a327106eb50fd9a62556f3ca40c155f7aafe",
+  "candidateSHA256": "2fc60cd8ed28d5fc7e6c21952a46a327106eb50fd9a62556f3ca40c155f7aafe",
+  "group": "18-3",
+  "shotsCovered": 1,
+  "peopleCovered": 1,
+  "filesChecked": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp9rap78b7\\approved.json",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp9rap78b7\\review.json",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp9rap78b7\\script.txt",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp9rap78b7\\card.bin",
+    "C:\\Users\\Administrator\\AppData\\Local\\Temp\\tmp9rap78b7\\map.bin"
+  ],
+  "globalWriteIsolation": false,
+  "automaticallyVerifiedSemantics": false,
+  "limits": "Checks versions and recorded evidence coverage. Independent semantic judgment and live write/readback remain required."
+}
+
+
+======================================================================
+FAIL: test_report_cannot_overwrite_evidence_when_review_is_malformed (__main__.AdmissionTests.test_report_cannot_overwrite_evidence_when_review_is_malformed)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 188, in test_report_cannot_overwrite_evidence_when_review_is_malformed
+    self.assertEqual((self.root / 'map.bin').read_bytes(), image)
+AssertionError: b'{\r\n  "eligible": false,\r\n  "stage": "[172 chars]\r\n' != b'confirmed map bytes'
+
+----------------------------------------------------------------------
+Ran 18 tests in 1.242s
+
+FAILED (failures=2)

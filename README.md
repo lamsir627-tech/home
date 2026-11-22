@@ -1,15 +1,9 @@
-# Codex 短剧规则与技能
+# Codex短剧规则与技能
 
-本仓库保存当前使用的规则与技能原文。原文中的本机路径保留不改，便于逐字节核对；网页浏览请使用下列仓库内入口。
+当前项目标准为[《重生》7–18工业级定稿验收标准R5](projects/重生7-18/工业级定稿验收标准.md)。[默认30秒分镜技能](skills/chaifen-fenjing-30s/SKILL.md)、[两轮交付流程](skills/universal-storyboard-breakdown/references/two-round-delivery.md)与[资产提取2](skills/script-visual-asset-compiler/SKILL.md)沿用已确认模板。
 
-- [全局规则](AGENTS.md)
-- [30秒分镜技能](skills/chaifen-fenjing-30s/SKILL.md)
-- [人物场景道具资产提取](skills/script-visual-asset-compiler/SKILL.md)
-- [通用分镜技能](skills/universal-storyboard-breakdown/SKILL.md)
-- [两轮交付与图片返修](skills/universal-storyboard-breakdown/references/two-round-delivery.md)
-- [《重生》项目验收标准R4](projects/重生7-18/工业级定稿验收标准.md)
-- [本次同步文件与SHA256](sync-manifest.json)
+本次优化：分阶段逐镜事实、全部字段核对、逐人图审覆盖、独立复核、依赖版本失效与写前证据检查。[写前检查用法](skills/universal-storyboard-breakdown/references/industrial-admission.md)；[站位图工具与复用规则](tools/standing-maps/references/blocking-map-prompts.md)。实际场景模式须显式使用已登记机位，保留旧任务默认兼容。
 
-R4在R3执行条款上加入“返修图必须独立重新出图”：重新使用确定的基准人物、场景、道具原件，不以当前或历史站位成图、返修图作返修底图；新图逐人完整重验，旧图通过结论不继承。P01–P10判据及原制作约束保留。历史审核与交付不自动改称R4通过；规则同步不代表已部署不可绕过的自动写入拦截，也不触发图片或视频生成。
+本地写前检查核版本、记录覆盖和候选一致性，不自动判断图文语义，未接管LibTV全部MCP/CLI写入权限，不能称平台全局门禁已部署。具体剧本、分镜、图像与视频不因规则同步自动验收或生成。
 
-同步范围仅为规则、三项相关技能及其参考/脚本、项目标准和R2/R3标准备份，不包含完整剧本、人物图片、音视频、账号凭据或会话日志。
+仓库原文与本机来源按字节核对；Windows绝对链接属于本机工作环境，仓库阅读按上方相对入口。R4及更早标准保留历史备查。同步清单见[sync-manifest.json](sync-manifest.json)；Obsidian原文由本机后台worker同步，GitHub按明确同步请求发布。

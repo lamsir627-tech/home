@@ -1,0 +1,10 @@
+test_archives_removed_source_and_preserves_unmanaged_note (test_source_sync.SyncTests.test_archives_removed_source_and_preserves_unmanaged_note) ... ok
+test_detects_content_change_and_leaves_idle_files_untouched (test_source_sync.SyncTests.test_detects_content_change_and_leaves_idle_files_untouched) ... ok
+test_mirrors_rules_and_nested_skill (test_source_sync.SyncTests.test_mirrors_rules_and_nested_skill) ... ok
+test_missing_source_does_not_erase_existing_mirror (test_source_sync.SyncTests.test_missing_source_does_not_erase_existing_mirror) ... ok
+test_rejects_destination_outside_mirror (test_source_sync.SyncTests.test_rejects_destination_outside_mirror) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.052s
+
+OK

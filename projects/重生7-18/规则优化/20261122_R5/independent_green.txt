@@ -1,0 +1,10 @@
+test_refreshing_dependency_manifest_requires_new_review (__main__.IndependentAdmissionTests.test_refreshing_dependency_manifest_requires_new_review) ... ok
+test_refreshing_image_manifest_requires_new_review (__main__.IndependentAdmissionTests.test_refreshing_image_manifest_requires_new_review) ... ok
+test_report_hardlink_cannot_overwrite_input (__main__.IndependentAdmissionTests.test_report_hardlink_cannot_overwrite_input) ... ok
+test_truthy_numeric_generation_switch_rejected (__main__.IndependentAdmissionTests.test_truthy_numeric_generation_switch_rejected) ... ok
+test_visible_person_inventory_cannot_make_P04_nonapplicable (__main__.IndependentAdmissionTests.test_visible_person_inventory_cannot_make_P04_nonapplicable) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.450s
+
+OK

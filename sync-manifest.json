@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "syncedDate": "2026-11-21",
+  "syncedDate": "2026-11-22",
   "repository": "lamsir627-tech/home",
   "branch": "main",
-  "managedCodexFiles": 45,
-  "fileCountExcludingManifest": 49,
+  "managedCodexFiles": 48,
+  "managedSourceFiles": 74,
+  "fileCountExcludingManifest": 75,
   "files": [
     {
       "path": "AGENTS.md",
@@ -14,9 +15,9 @@
     },
     {
       "path": "skills/chaifen-fenjing-30s/SKILL.md",
-      "size": 41411,
-      "sha256": "0e568fd8e172078257e1f7329316e6c0d07cd695b2f0b6d087d9b7df97cb8687",
-      "gitBlobSHA": "6f13e229f8f62eada257cc50875b7b2fa2c622ae"
+      "size": 42689,
+      "sha256": "0d179f60d92d11eaf8edda039bdd37299bb1683db2f5cbe7e0d4dfa2a5968c7f",
+      "gitBlobSHA": "d92704c96dfdc1c29030b27211de85dae6066bfa"
     },
     {
       "path": "skills/universal-storyboard-breakdown/agents/openai.yaml",
@@ -110,9 +111,9 @@
     },
     {
       "path": "skills/universal-storyboard-breakdown/references/two-round-delivery.md",
-      "size": 20178,
-      "sha256": "2eb7e6e21b74de41812adf49b6c0ef23afb516c57cf07deb82c67dfc546fc42e",
-      "gitBlobSHA": "6dcc94b07813e0e5d09b7ce0e6d4f74a49483cac"
+      "size": 20680,
+      "sha256": "b1443fe64172dd129f7725a91e1ffc2795954dab2d987a6edce0d0904ff7c16a",
+      "gitBlobSHA": "db15b67466e9b13b85689f29bdd2362830dfd0d8"
     },
     {
       "path": "skills/universal-storyboard-breakdown/references/video-texture-style-options.md",
@@ -278,9 +279,9 @@
     },
     {
       "path": "projects/重生7-18/工业级定稿验收标准.md",
-      "size": 21507,
-      "sha256": "23a161a1274bf8b441bc165f7460e9b3cf925ebe247770e59eb33dc9ca674093",
-      "gitBlobSHA": "b035f3ef305a36fcc84ab926c8185ab7e70e914f"
+      "size": 26645,
+      "sha256": "0b3ede87ce02b3213b2a3257eb494270c9fa65c669f618c79e0087b76805983c",
+      "gitBlobSHA": "ab96ca9d03a9dbbb266cb873a1d737d3e16d5d03"
     },
     {
       "path": "projects/重生7-18/规则备份/20261121_agent验收执行优化/项目_工业级定稿验收标准_R2.md",
@@ -295,13 +296,170 @@
       "gitBlobSHA": "26f0ad8ca2213a620b29afd1c6b285de427122c0"
     },
     {
+      "path": "skills/universal-storyboard-breakdown/scripts/verify_industrial_admission.py",
+      "size": 8978,
+      "sha256": "076509c9bf5a7b292cff4d550c2cbf3fe7b189039f98af255302d951765bdee8",
+      "gitBlobSHA": "16a53d2b0c15cd75e2a799018fd7f8162b9f9746"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/scripts/test_verify_industrial_admission.py",
+      "size": 10868,
+      "sha256": "6f4e3f9fd42f744f3f061fa3dbb710f3234adb46e80bff3fc7ef6e4b079cc758",
+      "gitBlobSHA": "b21e777622a5badfc4fed05a4f2a2a2298b31cc5"
+    },
+    {
+      "path": "skills/universal-storyboard-breakdown/references/industrial-admission.md",
+      "size": 5035,
+      "sha256": "e42fcadaf2c43b1cb3bd1c5a7516f9d6ce16a455747c0e161a992d62fcf54ec7",
+      "gitBlobSHA": "fa9f74a4f61df24fd82846e37dbf68ec3cebb56c"
+    },
+    {
+      "path": "projects/重生7-18/规则备份/20261122_agent验收执行优化_R4/项目_工业级定稿验收标准_R4.md",
+      "size": 21507,
+      "sha256": "23a161a1274bf8b441bc165f7460e9b3cf925ebe247770e59eb33dc9ca674093",
+      "gitBlobSHA": "b035f3ef305a36fcc84ab926c8185ab7e70e914f"
+    },
+    {
+      "path": "tools/standing-maps/scripts/build_blocking_maps.py",
+      "size": 16570,
+      "sha256": "74101fa743997afe1d7581ab0a6f2c26d63e9f10d16df72572454b415e5f7fd1",
+      "gitBlobSHA": "09a5f5481b0999f67c3d02a914614581d9c3577b"
+    },
+    {
+      "path": "tools/standing-maps/scripts/verify_scene_state.py",
+      "size": 30845,
+      "sha256": "dd7dc8203428b1876c2ad812cb41fe8c7c755d1ed43434434a2ec13d50c52d13",
+      "gitBlobSHA": "da04aa114dde7b034619986649163327c82618bf"
+    },
+    {
+      "path": "tools/standing-maps/scripts/verify_emphasis_shots.py",
+      "size": 17335,
+      "sha256": "d1d550521ff0938e9b2def32c45d307f3c367c095e20cfef8c0f1b196051223c",
+      "gitBlobSHA": "ec24e8e7e834219761152f6621e5c81482aee89f"
+    },
+    {
+      "path": "tools/standing-maps/scripts/verify_timeline.py",
+      "size": 14786,
+      "sha256": "fc763f4008ad2af06b10a936528cb1c0521728618d82f4e0f195752f18dcb5f7",
+      "gitBlobSHA": "3f74efed42c09c257f5c174db6946a4c35ba40a4"
+    },
+    {
+      "path": "tools/standing-maps/scripts/test_build_blocking_maps.py",
+      "size": 14872,
+      "sha256": "ac509ab1f6beb926deca0c9a5c43d0c139e48d172971aecba0b3dea76e43eaf6",
+      "gitBlobSHA": "e32e85db10314adb47fe8dc1f6ece9856a181078"
+    },
+    {
+      "path": "tools/standing-maps/scripts/test_verify_scene_state.py",
+      "size": 9725,
+      "sha256": "da5892b603a10416be8d6f9389ffddb6096a5f64843c5cec24620adf7a5f62a9",
+      "gitBlobSHA": "33bd5e89f3736158ab32b035dd60da89f75a7721"
+    },
+    {
+      "path": "tools/standing-maps/scripts/test_verify_emphasis_shots.py",
+      "size": 8074,
+      "sha256": "acc59eff2460f0b209881ca41a6219569473d56af565959f4f8815745ca8aec6",
+      "gitBlobSHA": "5617c622e62af165e408ab95f87b6c824d1fdf4e"
+    },
+    {
+      "path": "tools/standing-maps/scripts/test_verify_timeline.py",
+      "size": 9646,
+      "sha256": "81a2f8a67a2ccfecec35115b9c35410f3a338a0c713551c1abcd26065965e7fa",
+      "gitBlobSHA": "a98982299529b99bda6393bd992bc9a89e928b38"
+    },
+    {
+      "path": "tools/standing-maps/references/blocking-map-prompts.md",
+      "size": 7811,
+      "sha256": "4b71eca7a00b9413e4be79879b5d406c095f9da35f7c27604932c2ab36f2e2d4",
+      "gitBlobSHA": "de60c3641e2dcfd2d322c7224ba52f56d6875960"
+    },
+    {
+      "path": "tools/standing-maps/references/blocking-ledger.md",
+      "size": 11246,
+      "sha256": "c0f26f9863a327ed67e98035e946697292241924e2130872096969c3af280c39",
+      "gitBlobSHA": "7e0c0ddf0ebe339fa9fc36f6a2a435ca7073c94d"
+    },
+    {
       "path": "README.md",
-      "size": 1307,
-      "sha256": "edc5a3aac822caffda1b3fa054cf14a0be844ecc7d98c69e0d045a9e1035ebf1",
-      "gitBlobSHA": "8557c3862481987447625b03abae214b68273211"
+      "size": 1372,
+      "sha256": "fe1b2b215b0ec4898d5cc88a1533e2dc19435ba0fac63461b25a789565faa173",
+      "gitBlobSHA": "0d4569028b09e2b7396df59fb0964664acacb986"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/docs_validation.md",
+      "size": 8058,
+      "sha256": "69628a0807060c91bec4e0282e8b360e044cb42353af803b3128c9dce39b62d2",
+      "gitBlobSHA": "f3c97b4e7313606f5b1f1165022d3d2a903aeeee"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/docs_validation_checks.json",
+      "size": 8798,
+      "sha256": "a0709d1de5109837c58afda522ecf4da8623872d07f8efce8c51bd27c470aec5",
+      "gitBlobSHA": "039e67b21a9d6c8ccbd2e9865a195657c183a595"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/compiler_validation.json",
+      "size": 44962,
+      "sha256": "a015cb5d872191f95f08465e3daef54617cae1edf391a82a081b6ab909515027",
+      "gitBlobSHA": "6c130d729bc8b69fc0cf6b77302ae0020b5e12c9"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/independent_review.md",
+      "size": 6263,
+      "sha256": "b85e52fb76377839b9043297923b3cb6c223c80be11a24e05ea6012f2ae0793a",
+      "gitBlobSHA": "ab14c4090d9872ad728ae7dc949345dfcafd2288"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/admission_red.txt",
+      "size": 13619,
+      "sha256": "47b7bc5131ccbd320334a0dab0e50cb774e77746bb7c71276ff82949e14ef829",
+      "gitBlobSHA": "ca595c8d2cb19025cdd959b776964a172b99c8a1"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/admission_green.txt",
+      "size": 122,
+      "sha256": "fa393ff6c07f572b965d2023785120be7ee9222c072e2fb90673afc56cd895b9",
+      "gitBlobSHA": "8479032bb1fe58794dde13b3aa9bbd42155587a5"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/admission_edge_red.txt",
+      "size": 2566,
+      "sha256": "bd6f7a2fd3ada25f7cc9da87f897182474acb8bec5140afef6a0d9868a9bee3d",
+      "gitBlobSHA": "fda241f23602ef3c6cfa4de2db6ce18e2684f321"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/independent_green.txt",
+      "size": 844,
+      "sha256": "a477b24db7bb24e956acdee63129d18de12f764131bf4236b40e39abe763dfd0",
+      "gitBlobSHA": "cdd3975aa2289cc6104d3a1705300913b47623c0"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/admission_full_independent_green.txt",
+      "size": 3416,
+      "sha256": "041326b135db94854a22d553ba7af752f00a577489c8b394e12ec357b60eff8a",
+      "gitBlobSHA": "11e352c2c5087ae9754c3939cbfd9af1e71003ee"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/codex_scripts_tests.txt",
+      "size": 6525,
+      "sha256": "d9261891100d617f2560566813f92ab9d31942254fbb94201aa8fbc3a001ae33",
+      "gitBlobSHA": "c93d89acb470fe8f830504ca7838b92abcc6bf5e"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/standing_scripts_tests.txt",
+      "size": 22952,
+      "sha256": "2dec038d62fd3c4bbaf930ac3338ad16be6f2ab02291d3053bed5b2c2b178686",
+      "gitBlobSHA": "80a512da142c33a738a65c299c76b95bd2151ebc"
+    },
+    {
+      "path": "projects/重生7-18/规则优化/20261122_R5/obsidian_sync_tests.txt",
+      "size": 778,
+      "sha256": "88b362f69e5584f265c9b4ec7008a3396d2dc98fcfc8ec9aa4ca2f8ddb51db3a",
+      "gitBlobSHA": "2cc99b4d7a86fbea673ef99f00b3715381d5924e"
     }
   ],
-  "policy": "原文件字节不改；原提交保留在Git历史。只有本清单文件更新，不删除仓库其他文件。",
+  "policy": "Preserve original source bytes and historical acceptance. Only managed rules, tools, dependencies and validation records are synchronized.",
   "automaticWritePermissionGateDeployed": false,
+  "localPrewriteCheckerImplemented": true,
   "videoGenerated": false
 }

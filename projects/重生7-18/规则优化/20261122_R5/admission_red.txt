@@ -1,0 +1,176 @@
+FFFFFFFFFFFFFFFFF
+======================================================================
+FAIL: test_author_cannot_be_independent_reviewer (__main__.AdmissionTests.test_author_cannot_be_independent_reviewer)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 149, in test_author_cannot_be_independent_reviewer
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_changed_dependency_rejected (__main__.AdmissionTests.test_changed_dependency_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 160, in test_changed_dependency_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_changed_model_parameters_rejected (__main__.AdmissionTests.test_changed_model_parameters_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 102, in test_changed_model_parameters_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_changed_target_rejected (__main__.AdmissionTests.test_changed_target_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 108, in test_changed_target_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_complete_evidence_passes_without_claiming_semantic_or_permission_isolation (__main__.AdmissionTests.test_complete_evidence_passes_without_claiming_semantic_or_permission_isolation)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 81, in test_complete_evidence_passes_without_claiming_semantic_or_permission_isolation
+    result = self.run_check(0)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_edited_prompt_rejected (__main__.AdmissionTests.test_edited_prompt_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 90, in test_edited_prompt_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_missing_field_coverage_rejected (__main__.AdmissionTests.test_missing_field_coverage_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 139, in test_missing_field_coverage_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_missing_required_check_rejected (__main__.AdmissionTests.test_missing_required_check_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 117, in test_missing_required_check_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_missing_shot_coverage_rejected (__main__.AdmissionTests.test_missing_shot_coverage_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 134, in test_missing_shot_coverage_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_no_generation_switch_allowed (__main__.AdmissionTests.test_no_generation_switch_allowed)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 169, in test_no_generation_switch_allowed
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_partial_person_review_rejected (__main__.AdmissionTests.test_partial_person_review_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 144, in test_partial_person_review_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_pass_label_without_evidence_rejected (__main__.AdmissionTests.test_pass_label_without_evidence_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 129, in test_pass_label_without_evidence_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_pending_and_failed_checks_rejected (__main__.AdmissionTests.test_pending_and_failed_checks_rejected) (state='待核')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 124, in test_pending_and_failed_checks_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_pending_and_failed_checks_rejected (__main__.AdmissionTests.test_pending_and_failed_checks_rejected) (state='失败')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 124, in test_pending_and_failed_checks_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_previous_version_review_rejected (__main__.AdmissionTests.test_previous_version_review_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 154, in test_previous_version_review_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_reference_order_rejected (__main__.AdmissionTests.test_reference_order_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 96, in test_reference_order_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+======================================================================
+FAIL: test_same_path_replaced_image_rejected (__main__.AdmissionTests.test_same_path_replaced_image_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 112, in test_same_path_replaced_image_rejected
+    self.run_check()
+  File "C:\Users\Administrator\.codex\skills\universal-storyboard-breakdown\scripts\test_verify_industrial_admission.py", line 67, in run_check
+    self.assertTrue(CHECKER.is_file(), 'Admission checker is not implemented')
+AssertionError: False is not true : Admission checker is not implemented
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.049s
+
+FAILED (failures=17)

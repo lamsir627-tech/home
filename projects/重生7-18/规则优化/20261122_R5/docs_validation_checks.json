@@ -1,0 +1,205 @@
+{
+  "p01P10TableExact": true,
+  "outputTemplateExact": true,
+  "copyDetailOwnerCount": 1,
+  "twoRoundDetailedCopyRemoved": true,
+  "compilerExampleExplicitAspectView": true,
+  "actualPromptInspectionRequired": true,
+  "historyScopeIsInHistorySection": true,
+  "sourceCopyInvariant": true,
+  "noVideoScopeAutoExpansion": true,
+  "semanticAutomationBoundary": true,
+  "globalGateNotClaimed": true,
+  "baselineFilesIntact": true,
+  "links": [
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "E:\\rag test\\test one\\重生7-18_分镜交付\\规则备份\\20261122_agent验收执行优化_R4\\项目_工业级定稿验收标准_R4.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "E:\\rag test\\test one\\重生7-18_分镜交付\\规则备份\\20261121_返修图独立重出\\项目_工业级定稿验收标准_R3.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "E:\\rag test\\test one\\重生7-18_分镜交付\\规则备份\\20261121_agent验收执行优化\\项目_工业级定稿验收标准_R2.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/scripts/verify_industrial_admission.py",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/industrial-admission.md",
+      "exists": true
+    },
+    {
+      "file": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "target": "E:\\rag test\\test one\\重生7-18_分镜交付\\规则优化\\20261122_R5\\docs_validation.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "C:/Users/Administrator/.codex/skills/资产提取2/SKILL.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "E:/Wl rag/project/universal-storyboard-breakdown/references/blocking-map-prompts.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "E:/Wl rag/project/universal-storyboard-breakdown/references/blocking-map-prompts.md",
+      "exists": true
+    },
+    {
+      "file": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "target": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/industrial-admission.md",
+      "exists": true,
+      "context": "Default workflow explicit prewrite-check entry"
+    }
+  ],
+  "newToolLinksPending": [],
+  "otherMissingLinks": [],
+  "files": [
+    {
+      "path": "E:/rag test/test one/重生7-18_分镜交付/工业级定稿验收标准.md",
+      "sha256": "0b3ede87ce02b3213b2a3257eb494270c9fa65c669f618c79e0087b76805983c"
+    },
+    {
+      "path": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "sha256": "0d179f60d92d11eaf8edda039bdd37299bb1683db2f5cbe7e0d4dfa2a5968c7f"
+    },
+    {
+      "path": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "sha256": "b1443fe64172dd129f7725a91e1ffc2795954dab2d987a6edce0d0904ff7c16a"
+    }
+  ],
+  "checkedAt": "2026-11-22T15:21:27.624Z",
+  "newAnchors": [
+    {
+      "path": "C:/Users/Administrator/.codex/skills/chaifen-fenjing-30s/SKILL.md",
+      "anchor": "视频节点提示词复制范围",
+      "exists": true
+    },
+    {
+      "path": "C:/Users/Administrator/.codex/skills/universal-storyboard-breakdown/references/two-round-delivery.md",
+      "anchor": "视频节点提示词复制范围",
+      "exists": true
+    }
+  ],
+  "toolHelpExitCode": 0,
+  "compilerHelpExitCode": 0,
+  "compilerExampleExplicitAspectViewCamera": true,
+  "cameraSourceRecorded": true,
+  "admissionRegression": {
+    "red": "admission_red.txt",
+    "redTests": 16,
+    "redExpectedFailures": 17,
+    "green": "admission_full_independent_green.txt",
+    "greenTests": 23,
+    "greenResult": "OK",
+    "automaticallyVerifiedSemantics": false,
+    "edgeRed": "admission_edge_red.txt",
+    "edgeExpectedFailures": 2,
+    "boundaries": [
+      "report must not overwrite evidence files",
+      "nonapplicability cannot be confirmed only by author"
+    ],
+    "intermediateGreen": {
+      "path": "admission_green.txt",
+      "tests": 18,
+      "result": "OK"
+    },
+    "independentAddedTests": 5
+  },
+  "finalIntegration": {
+    "status": "complete",
+    "checkedAt": "2026-11-22T15:21:27.624Z",
+    "independentReview": {
+      "path": "E:/rag test/test one/重生7-18_分镜交付/规则优化/20261122_R5/independent_review.md",
+      "sha256": "b85e52fb76377839b9043297923b3cb6c223c80be11a24e05ea6012f2ae0793a",
+      "extraTests": 5,
+      "extraTestsPassed": 5,
+      "ruleInvariantsIndependentlyCompared": true
+    },
+    "admission": {
+      "path": "E:/rag test/test one/重生7-18_分镜交付/规则优化/20261122_R5/admission_full_independent_green.txt",
+      "sha256": "041326b135db94854a22d553ba7af752f00a577489c8b394e12ec357b60eff8a",
+      "tests": 23,
+      "result": "OK",
+      "intermediate18AndEarlierFailuresPreserved": true,
+      "automaticallyVerifiedSemantics": false,
+      "globalWriteIsolation": false
+    },
+    "compiler": {
+      "path": "E:/rag test/test one/重生7-18_分镜交付/规则优化/20261122_R5/compiler_validation.json",
+      "sha256": "a015cb5d872191f95f08465e3daef54617cae1edf391a82a081b6ab909515027",
+      "targetedTests": 16,
+      "targetedExitCode": 0,
+      "fullESuiteTests": 160,
+      "fullESuiteExitCode": 0
+    },
+    "taskScope": "Only rules/tools/necessary tests and evidence; no full-drama rerun, production script/image/canvas changes, or media generation.",
+    "finalSuites": {
+      "codex": {
+        "path": "E:/rag test/test one/重生7-18_分镜交付/规则优化/20261122_R5/codex_scripts_tests.txt",
+        "sha256": "d9261891100d617f2560566813f92ab9d31942254fbb94201aa8fbc3a001ae33",
+        "tests": 44,
+        "result": "OK"
+      },
+      "standing": {
+        "path": "E:/rag test/test one/重生7-18_分镜交付/规则优化/20261122_R5/standing_scripts_tests.txt",
+        "sha256": "2dec038d62fd3c4bbaf930ac3338ad16be6f2ab02291d3053bed5b2c2b178686",
+        "tests": 160,
+        "result": "OK"
+      }
+    },
+    "defaultWorkflowCheckLinked": true
+  }
+}
